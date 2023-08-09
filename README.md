@@ -5,7 +5,7 @@
 - 🔭 Estudando programação no meu 2º ano no Cotuca
 </p>
 <p align="center">
-- 🌱 Estudando React.js, C# e como Extracurricular JQuery
+- 🌱 Estudando C#, Java e Kotlin
 </p>
 <p align="center">
 - 📫 Meu dicord: Bey0ndzin#3829
