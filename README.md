@@ -2,19 +2,19 @@
 <img src='https://cdn.discordapp.com/attachments/513402687698763797/1225451548016902154/toji_fushiguro_wallpaper_by_xavierhernandez2_dg2ahan-pre.png?ex=66212db0&is=660eb8b0&hm=8e9ebca50ab7d4a088f27546f5b64c24a1285e3dce3dbc285d47922f7c8c39dc&' alt="banner"></img>
 <h2 align="center"><img src="https://github.com/Bey0ndzin/Bey0ndzin/blob/main/gojoBanner.gif" width="50">Seja Bem-Vindo<img src="https://github.com/Bey0ndzin/Bey0ndzin/blob/main/gojoBanner.gif" width="50"></h2>
 <p align="center">
-- 🔭 Estudando programação no meu 2º ano no Cotuca
+- 🔭 Programming in my Third Year at Cotuca.
 </p>
 <p align="center">
-- 🌱 Estudando C#, Java e Kotlin
+- 🌱 Studying C# (Unity), Java (Spring Tool Suite) and C++ (Unreal Engine)
 </p>
 <p align="center">
-- 📫 Meu dicord: Bey0ndzin#3829
+- 📫 My dicord: Bey0ndzin#3829
 </p>
 <p align="center">
-- 🍪🖱 Atualmente programando o Cotuca Clicker
+- 🤖🗡 Now programming Light is Gone
 </p>
 <div>
-  <h2 align="center">Alguns Status</h2>
+  <h2 align="center">Some Stats</h2>
   <p align="center">
   <a href="https://github.com/Bey0ndzin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bey0ndzin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -38,7 +38,7 @@
   <img align="center" alt="Unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
 </div>
   <div> 
-      <h2 align="center">Redes Sociais</h2>
+      <h2 align="center">Social Media</h2>
     <p align="center">
   <a href="https://www.youtube.com/@Bey0ndzin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
