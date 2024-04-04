@@ -1,5 +1,5 @@
 <p align="center">
-<img src='https://cdn.discordapp.com/attachments/513402687698763797/1225451548016902154/toji_fushiguro_wallpaper_by_xavierhernandez2_dg2ahan-pre.png' alt="banner"></img>
+<img src='[https://cdn.discordapp.com/attachments/513402687698763797/1225451548016902154/toji_fushiguro_wallpaper_by_xavierhernandez2_dg2ahan-pre.png](https://cdn.discordapp.com/attachments/513402687698763797/1225451548016902154/toji_fushiguro_wallpaper_by_xavierhernandez2_dg2ahan-pre.png)' alt="banner"></img>
 <h2 align="center"><img src="https://github.com/Bey0ndzin/Bey0ndzin/blob/main/gojoBanner.gif" width="50">Seja Bem-Vindo<img src="https://github.com/Bey0ndzin/Bey0ndzin/blob/main/gojoBanner.gif" width="50"></h2>
 <p align="center">
 - 🔭 Estudando programação no meu 2º ano no Cotuca
