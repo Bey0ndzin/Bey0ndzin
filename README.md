@@ -2,16 +2,16 @@
 <img src='https://media.discordapp.net/attachments/589876673860731063/1318698631108366366/toji_fushiguro_wallpaper_by_xavierhernandez2_dg2ahan-pre.png?ex=6763454d&is=6761f3cd&hm=85b845d067995f62de39614149b1884263f57daf1773a4e82314795e272aed91&=&format=webp&quality=lossless&width=550&height=309' alt="banner"></img>
 <h2 align="center"><img src="https://github.com/Bey0ndzin/Bey0ndzin/blob/main/gojoBanner.gif" width="50">Be Welcome<img src="https://github.com/Bey0ndzin/Bey0ndzin/blob/main/gojoBanner.gif" width="50"></h2>
 <p align="center">
-- 🔭 Programming in my Third Year at Cotuca.
+- 🔭 Software Developer, 3 years experience programming at COTUCA (Colégio Técnico de Campinas)
 </p>
 <p align="center">
-- 🌱 Studying C# (Unity), Java (Spring Tool Suite) and C++ (Unreal Engine)
+- 🌱 Studying C# (Unity) and C++ (Unreal Engine)
 </p>
 <p align="center">
-- 📫 My dicord: Bey0ndzin#3829
+- 📫 My dicord: bey0ndzin
 </p>
 <p align="center">
-- 🤖🗡 Now programming Light is Gone
+- 🤖🗡 Now programming Light is Gone and Souls Clicker
 </p>
 <div>
   <h2 align="center">Some Stats</h2>
