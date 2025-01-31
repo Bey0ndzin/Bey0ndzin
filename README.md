@@ -1,16 +1,13 @@
 <p align="center">
-<h2 align="center"><img src="https://github.com/Bey0ndzin/Bey0ndzin/blob/main/gojoBanner.gif" width="50">Be Welcome<img src="https://github.com/Bey0ndzin/Bey0ndzin/blob/main/gojoBanner.gif" width="50"></h2>
+<h2 align="center">Be Welcome</h2>
 <p align="center">
-- 🔭 Software Developer, 3 years experience programming at COTUCA (Colégio Técnico de Campinas)
+- 🔭 Software Developer, 3 years of academic experience at COTUCA (Colégio Técnico de Campinas)
 </p>
 <p align="center">
-- 🌱 Studying C# (Unity) and C++ (Unreal Engine)
+- 🌱 Studying C# (Unity), C++ (Unreal Engine) and React (Front-End Web Development)
 </p>
 <p align="center">
-- 📫 My dicord: bey0ndzin
-</p>
-<p align="center">
-- 🤖🗡 Now programming Light is Gone and Souls Clicker
+- 🤖🗡 Now programming Souls Clicker
 </p>
 <div>
   <h2 align="center">Some Stats</h2>
