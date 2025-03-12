@@ -4,10 +4,10 @@
 - 🔭 Software Developer, 3 years of academic experience at COTUCA (Colégio Técnico de Campinas)
 </p>
 <p align="center">
-- 🌱 Studying C# (Unity), C++ (Unreal Engine) and React (Front-End Web Development)
+- 🌱 Studying C# (Unity), React (Front-End Web Development) and Node.JS (Back-End Web Development)
 </p>
 <p align="center">
-- 🤖🗡 Now programming Souls Clicker
+- ⚡🚀 Working for Chatvolt.AI
 </p>
 <div>
   <h2 align="center">Some Stats</h2>
@@ -32,9 +32,4 @@
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
-</div>
-  <div> 
-      <h2 align="center">Social Media</h2>
-    <p align="center">
-  <a href="https://www.youtube.com/@Bey0ndzin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
