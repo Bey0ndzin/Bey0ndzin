@@ -4,7 +4,7 @@
 - 🔭 Software Developer, 3 years of academic experience at COTUCA (Colégio Técnico de Campinas)
 </p>
 <p align="center">
-- 🌱 Studying C# (Unity), React (Front-End Web Development) and Node.JS (Back-End Web Development)
+- 🌱 Studying C# (Unity), React + TypeScript + Tailwind (Front-End Web Development), Node.JS + TypeScript (Back-End Web Development) and Next.JS (Both Back-End and Front-End Development)
 </p>
 <p align="center">
 - ⚡🚀 Working for Chatvolt.AI
