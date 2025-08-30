@@ -1,4 +1,5 @@
 <p align="center">
+<img src="https://i.ibb.co/WvcN48zF/toji-wpp.jpg">
 <h2 align="center">Be Welcome</h2>
 <p align="center">
 - 🔭 Software Developer, 3 years of academic experience at COTUCA (Colégio Técnico de Campinas)
