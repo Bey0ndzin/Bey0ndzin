@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/WvcN48zF/toji-wpp.jpg">
 <h2 align="center">Be Welcome</h2>
 <p align="center">
-- 🔭 Software Developer, 3 years of academic experience at COTUCA (Colégio Técnico de Campinas) + 6 months of work experience in Chatvolt.ai
+- 🔭 Software Developer, 3 years of academic experience at COTUCA (Colégio Técnico de Campinas) + 8 months of work experience in Chatvolt.ai, and Side Quest
 </p>
 <p align="center">
 - 🌱 Studying C# (Unity), React + TypeScript + Tailwind (Front-End Web Development), Node.JS + TypeScript (Back-End Web Development), Next.JS (Both Back-End and Front-End Development) and Python (Automation)
