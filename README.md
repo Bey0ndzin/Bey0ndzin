@@ -11,12 +11,6 @@
 - ⚡🚀 Working for Chatvolt.AI and Side Quest
 </p>
 <div>
-  <h2 align="center">Some Stats</h2>
-  <p align="center">
-  <a href="https://github.com/Bey0ndzin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bey0ndzin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bey0ndzin&theme=dark">
-  </div>
   <div>
     <p align="center">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
