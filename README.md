@@ -8,7 +8,7 @@
 - 🌱 Studying C# (Unity), React + TypeScript + Tailwind (Front-End Web Development), Node.JS + TypeScript (Back-End Web Development), Next.JS (Both Back-End and Front-End Development) and Python (Automation)
 </p>
 <p align="center">
-- ⚡🚀 Working for Chatvolt.AI and Side Quest
+- ⚡🚀 Working for Chatvolt.AI
 </p>
 <div>
   <div>
